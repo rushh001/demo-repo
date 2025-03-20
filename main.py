@@ -2,7 +2,7 @@ def sum_of_two_numbers(a, b):
     return a + b
 
 # Example usage
-num1 = 30
+num1 = 50
 num2 = 20
 
 
